@@ -1,0 +1,1 @@
+{"config":{"lang":["ja"],"separator":"[\\s\\-\uff0c\u3002]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Python Tools","text":""},{"location":"#python","title":"python \u81ea\u7528\u5de5\u5177","text":""},{"location":"#change_ip","title":"change_ip","text":"<ul> <li>\u4fee\u6539ip\u548cmac</li> </ul>"}]}
